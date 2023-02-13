@@ -1,3 +1,4 @@
+
 ### Code
 
 Here is the code for major classes.
@@ -148,3 +149,8 @@ class Itinerary:
     def make_payment(self):
         None
 ```
+
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms

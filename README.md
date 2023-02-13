@@ -5,6 +5,7 @@ An Airline Management System is a managerial software which targets to control a
 This system involves the scheduling of flights, air ticket reservations, flight cancellations, customer support, and staff management. Daily flights updates can also be retrieved by using the system.
 
 System Requirements
+
 We will focus on the following set of requirements while designing the Airline Management System:
 
 Customers should be able to search for flights for a given date and source/destination airport.
